@@ -1,6 +1,6 @@
 # Iconat
 
-This package is a collection of high-quality icons for React applications. The library provides a wide variety of icons in different categories, including social media, e-commerce, user interface, and more.
+This package is a collection of high-quality icons for React applications. The library provides a wide variety of icons in different categories, including weather, e-commerce, education, user interface, and more.
 
 ![header](https://i.ibb.co/VH5C7FY/header.png)
 
