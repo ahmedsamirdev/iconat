@@ -21,7 +21,6 @@ npm install iconat
 ### Usage
 
 ```bash
-import React from 'react'
 import Iconat from 'iconat'
 
 const App = () => {
@@ -29,7 +28,7 @@ const App = () => {
     <Iconat
       size={22}
       color={'red'}
-      icon={'heart'}
+      icon={'calendar-date'}
     />
   )
 }
