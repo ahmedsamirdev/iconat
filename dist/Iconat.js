@@ -4,7 +4,7 @@ var __assign = (this && this.__assign) || function () {
             s = arguments[i];
             for (var p in s) if (Object.prototype.hasOwnProperty.call(s, p))
                 t[p] = s[p];
-        }
+        } 
         return t;
     };
     return __assign.apply(this, arguments);
