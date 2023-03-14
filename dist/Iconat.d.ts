@@ -1,5 +1,5 @@
 import React from "react";
-type IconatProps = {
+declare type IconatProps = {
     icon: string;
     className?: string;
     style?: React.CSSProperties;

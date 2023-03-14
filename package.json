@@ -1,6 +1,6 @@
 {
   "name": "iconat",
-  "version": "1.5.7",
+  "version": "1.5.8",
   "description": "Simplify your development with our diverse collection of icons.",
   "main": "dist/index.ts",
   "module": "dist/index.js",
@@ -34,7 +34,7 @@
     "publish": "npm run build"
   },
   "peerDependencies": {
-    "react": "^16.0.0",
-    "react-dom": "^16.0.0"
+    "react": "^16.0.0 || ^17.0.0 || ^18.0.0",
+    "react-dom": "^16.0.0 || ^17.0.0 || ^18.0.0"
   }
 }
