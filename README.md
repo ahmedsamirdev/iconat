@@ -28,7 +28,7 @@ const App = () => {
     <Iconat
       size={22}
       color={'red'}
-      icon={'calendar-date'}
+      icon={'stopwatch'}
     />
   )
 }
