@@ -4,7 +4,7 @@
 [![dependencies](https://img.shields.io/librariesio/dependents/npm/iconat)](https://www.npmjs.com/package/iconat)
 [![node version](https://img.shields.io/node/v/iconat)](https://www.npmjs.com/package/iconat)
 
-This package is a collection of high-quality icons for React applications. The library provides a wide variety of icons in different categories, including weather, communication, development, editors, files, finance & e-commerce, images, layout, maps & travel, media & devices, security, education, user interface, and more.
+This package is a collection of high-quality icons for React applications. The library provides a wide variety of icons in different categories, including weather, communication, development, editors, files, finance & e-commerce, images, layout, maps & travel, media & devices, security, education, user interface, and more. 
 
 ![header](https://i.ibb.co/VH5C7FY/header.png)
 
